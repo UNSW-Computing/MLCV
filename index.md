@@ -2,11 +2,12 @@
 
 ### Presenters and Topics/Papers discussed
 
-| Date  |  Presenter  | Topic                                                                                |
-|------------------------------------------------------------------------------------------------------------|
-| 05/11 |    SA       | tbd                                                                                  |
-| 24/09 |    SS       | Multimodal Machine Learning for Medical Imaging                                      |
-| 27/08 |    PD       | Super-resolution imaging of luminescence images of solar cells using deep learning   |
+|  Date  |  Presenter  |  Topic                                                                               |
+| ------ | ----------- | ------------------------------------------------------------------------------------ |
+|  05/11 |    SA       | tbd                                                                                  |
+|  24/09 |    SS       | Multimodal Machine Learning for Medical Imaging                                      |
+|  27/08 |    PD       | Super-resolution imaging of luminescence images of solar cells using deep learning   |
+
 
 You can use the [editor on GitHub](https://github.com/UNSW-Computing/mlcv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
